@@ -42,7 +42,7 @@ const Navbar= () => {
           <li className="cursor-pointer hover:text-yellow-400 mt-1.5"><a href="#contact">CONTACT</a></li>
           <li className="cursor-pointer hover:text-yellow-400 mt-1.5"><a href="#construction-guide">CONSTRUCTION GUIDE</a></li>
            <Link to="/QuoteForm">
-              <button className="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold px-4 py-2 rounded">
+              <button className="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold px-4 py-2 w-full h-full text-center border-b-4">
                 GET QUOTE
               </button>
             </Link>
