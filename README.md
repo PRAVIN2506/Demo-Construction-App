@@ -72,7 +72,7 @@ construction_project/
    ```bash
    npm run start
 
-## 📸 Screenshots
+## 📸 GitHub hosting
 https://pravin2506.github.io/Demo-Construction-App/
 
 ## Author
